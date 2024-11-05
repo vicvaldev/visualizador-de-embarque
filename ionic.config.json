@@ -1,0 +1,8 @@
+{
+  "name": "Visualizador de Embarque",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "21f3fff8"
+}
